@@ -1,2 +1,8 @@
 # app-dev
-My first repository
+## favorite series/movie
+```
+{
+  "Title": "FPJ'S Batang Quiapo",
+  "Original Network": "ABS-CBN Entertainment",
+}
+```
